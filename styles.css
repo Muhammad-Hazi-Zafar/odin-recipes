@@ -12,3 +12,14 @@ a{
     text-decoration-color: brown;
     color: black;
 }
+
+img.page-biryani{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.allure,
+.recipe{
+    text-align: center;
+}
