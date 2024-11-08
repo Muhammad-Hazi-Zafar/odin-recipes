@@ -23,3 +23,6 @@ img.page-biryani{
 .recipe{
     text-align: center;
 }
+body.biryani ul li{
+    padding-top: 15px;
+}
